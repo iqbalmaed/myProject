@@ -1,2 +1,0 @@
-# myProject
-Created with CodeSandbox
